@@ -1,8 +1,21 @@
-A free transcription and summarizing solution using Python and Open AI's Whisper AI model. I did create this with the assistance of AI. This is my first project implementing AI models and I used this to get familiar. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshtrinh1102/Live-Transcription/blob/main/Live-Transcription.ipynb)
 
+# Live Audio Transcription with OpenAI Whisper
 
+This project uses Python to capture microphone audio in real-time and transcribe it into text using OpenAI's Whisper model. The script is designed to run in a Google Colab environment and includes silence detection to automatically stop the recording.
 
-# Live-Transcription
+## Key Features
+* Real-time audio capture directly from the browser.
+* Continuous, chunk-by-chunk transcription using the Whisper ASR model.
+* Automatic silence detection to intelligently end the recording session.
 
-link to colab file:
-https://colab.research.google.com/drive/1lqYEbxDz37KTvCEMmegxYl-jjeTC1a1X?usp=sharing
+## Technologies Used
+* Python
+* OpenAI Whisper
+* Pydub
+* Google Colab
+
+## How to Use
+1.  Click the "Open in Colab" badge above.
+2.  Run the cells in order from top to bottom.
+3.  Grant microphone access to your browser when prompted by the script.
