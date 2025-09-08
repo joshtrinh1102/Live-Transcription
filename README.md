@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/16/Live_Transcription_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshtrinh1102/16/Live_Transcription_Demo.ipynb)
 
 # Live Audio Transcription with OpenAI Whisper
 
